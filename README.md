@@ -8,7 +8,7 @@ To request an update at a future date open an issue or a PR.
 
 How this differs from the boilerplate:
 - Moved the default App component into src/components
-- Created src/stylesheets and set up 7 folders using the 7-1 pattern. Some of them are empty. Some have files and suggested values and/or values that I frequently reuse when starting new projects. See [this](https://github.com/HugoGiraudel/sass-boilerplate) project for reference.
+- Created src/stylesheets and set up folders roughly aligned with the 7-1 pattern (not all 7 tend to be relevant in small projects). Some have files and suggested values and/or values that I frequently reuse when starting new projects. See [this](https://github.com/HugoGiraudel/sass-boilerplate) project for reference.
 - Renamed index.[s]css to main.[s]css
 
 ### Usage
